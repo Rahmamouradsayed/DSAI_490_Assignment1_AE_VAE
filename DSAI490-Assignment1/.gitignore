@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data (large files — upload to Drive separately)
+data/raw/
+data/processed/
+
+# Trained models (large)
+models/
+
+# OS
+.DS_Store
+Thumbs.db
